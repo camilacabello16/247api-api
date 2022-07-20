@@ -1,0 +1,12 @@
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\API.DataLayer.deps.json
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\API.DataLayer.dll
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\API.DataLayer.pdb
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\API.Common.dll
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\bin\Debug\netcoreapp3.1\API.Common.pdb
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.csprojAssemblyReference.cache
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.AssemblyInfoInputs.cache
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.AssemblyInfo.cs
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.csproj.CoreCompileInputs.cache
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.csproj.CopyComplete
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.dll
+H:\247api\247api\247api_api\MISA.CukCuk.DataLayer\obj\Debug\netcoreapp3.1\API.DataLayer.pdb

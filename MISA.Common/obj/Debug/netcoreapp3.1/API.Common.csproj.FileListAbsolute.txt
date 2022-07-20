@@ -1,0 +1,11 @@
+H:\247api\247api\247api_api\MISA.Common\bin\Debug\netcoreapp3.1\API.Common.deps.json
+H:\247api\247api\247api_api\MISA.Common\bin\Debug\netcoreapp3.1\API.Common.dll
+H:\247api\247api\247api_api\MISA.Common\bin\Debug\netcoreapp3.1\API.Common.pdb
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.csprojAssemblyReference.cache
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\247API.Common.Properties.Resources.resources
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.csproj.GenerateResource.cache
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.AssemblyInfoInputs.cache
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.AssemblyInfo.cs
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.csproj.CoreCompileInputs.cache
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.dll
+H:\247api\247api\247api_api\MISA.Common\obj\Debug\netcoreapp3.1\API.Common.pdb
